@@ -17,6 +17,8 @@ This project uses data from a mobile blood donation vehicle in Taiwan. The datas
 ### What is TPOT?
 
 TPOT is an open-source AutoML tool that automates the process of designing and optimizing machine learning pipelines. It uses **genetic programming** to identify the best combination of preprocessing steps, models, and hyperparameters for your dataset. 🧬✨
+![image](https://github.com/user-attachments/assets/f61dc7b6-2e7b-4754-8d23-26c0ade64e8c)
+
 
 ### 🔑 Key Features:
 1. 🛠️ **Pipeline Automation**: Automatically builds and optimizes end-to-end machine learning pipelines.
